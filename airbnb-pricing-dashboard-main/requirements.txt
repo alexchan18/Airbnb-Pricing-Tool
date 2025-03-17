@@ -1,0 +1,14 @@
+boto3
+folium
+joblib
+matplotlib
+nltk
+pandas
+python-dotenv
+scikit_learn
+snowflake_connector_python
+streamlit
+streamlit_folium
+wordcloud
+h3
+seaborn

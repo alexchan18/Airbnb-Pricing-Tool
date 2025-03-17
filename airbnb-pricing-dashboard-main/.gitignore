@@ -1,0 +1,19 @@
+# Ignore environment file
+.env
+
+# Ignore joblib files
+*.joblib
+
+# Ignore CSV files
+*.csv
+
+# Ignore GeoJSON files
+*.geojson
+
+# Ignore HTML files
+*.html
+
+__pycache__/
+
+# Ignore TOML files
+*.toml
